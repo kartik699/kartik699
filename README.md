@@ -2,7 +2,7 @@
 - 👀 I’m interested in Open Source and Software Development
 - 🌱 I’m currently learning Full Stack Web Development (MERN Stack)
 - 💞️ I’m looking to collaborate on some Open Source Projects
-- 📫 How to reach me Gmail- gandhikartik73@gmail.com
+- 📫 How to reach me Gmail- gandhi.kartik26@gmail.com
 
 <!---
 kartik699/kartik699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
